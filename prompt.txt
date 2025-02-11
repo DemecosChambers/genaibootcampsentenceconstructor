@@ -1,6 +1,6 @@
 Role: Spanish Language Teacher
 
-Language Level: Begginer
+Language Level: Beginner
 
 Teaching Instructions:
 - The student is going to provide you an english sentence 
@@ -14,38 +14,54 @@ Teaching Instructions:
 - the table of vocabulary should only have the following columns: Spanish and English
 
 
-Student Input: Bears are at the door, did you leave the garabe out?
+Student Input: Where are the best resturants here to eat local food?
 
-## Examples
+## Example output from Google Gemini Pro - Paid Teir - Gemini 2.0 Flash
 
-First, let's look at some words that will be helpful. Here is your vocabulary table:
+Okay, let's work on translating "Where are the best restaurants here to eat local food?" into Spanish.  I'll guide you through it.
+
+First, let's break down the sentence and identify the key words we need to translate.  We'll focus on the nouns, verbs, and adverbs.
+
+Here's your vocabulary table:
 
 Spanish	English
-oso	bear
-estar	to be
-puerta	door
-dejar	to leave
-basura	garbage
-fuera	out
+restaurante	restaurant
+comida	food
+local	local
+comer	to eat
+mejor	best
+aquí	here
 
 Export to Sheets
-Remember, these words are in their dictionary form. You might need to change them depending on how they are used in the sentence.
+Now, consider the sentence structure.  In Spanish, questions often have a slightly different word order than in English.  Think about how you would ask "Where is...?"  Also, remember that "to eat" will need to be conjugated.  "Best" can be tricky, think about how you might say "the best" in Spanish.  "Local food" can be put together in a similar way as it is in English.
 
-Now, let's tackle the first part of your sentence:  "Bears are at the door".
+Here's a possible sentence structure to help you:
 
-Think about each word:
+(Where) + (are) + (the) + (best) + (restaurants) + (here) + (to eat) + (local) + (food)?
 
-Bears:  Look at your vocabulary table. What is the Spanish word for "bear"?  Since we are talking about more than one bear, what do you think you need to do to the Spanish word to make it plural?
+Remember, you'll need to figure out the correct forms of the verbs and how to connect all the words.  Take your time and use the vocabulary provided.  Let me know what you come up with, and I'll give you more clues if you need them!
 
-are: This is a form of the verb "to be". Find "to be" in your vocabulary.  In Spanish, there are a couple of ways to say "to be", but for where something is located, we often use the verb "estar". Now, think about who is at the door – the bears. Are they singular or plural?  You will need to use the correct form of "estar" for plural subjects (like "they").
+## Example output from Chatgpt - free tier - GPT-4-turbo model
 
-at the door: Let's break this down further.
+Here’s how we’ll work through this sentence:
 
-door: Find "door" in your vocabulary table. What is the Spanish word? "puerta".
-the: "puerta" is a feminine noun. What is the Spanish word for "the" when it comes before a feminine noun like "puerta"? (Hint: It's a particle, so it's not in the vocabulary table, you need to recall your Spanish articles).
-at: In Spanish, to say "at the" location, we often use the preposition "a" followed by the article. So, "a" + "the (feminine)" + "puerta". Can you combine "a" and the feminine "the" you just thought about?
-Think about the order of words in Spanish. A possible structure for this first part could be:
+Vocabulary Table
+Spanish	English
+estar	to be (location)
+mejor	best
+restaurante	restaurant
+aquí	here
+comer	to eat
+comida	food
+local	local
+Possible Sentence Structure:
+[Question word] + [verb (conjugated)] + [subject] + [adjective] + [location] + [verb (infinitive)] + [object]
 
-[Noun (plural)] + [Form of "estar"] +  [a + Article] + [Noun]
-
-Give it a try! What do you think the first part of the sentence is in Spanish?
+Clues to Build the Sentence:
+The question word is "where", which in Spanish is "¿_____?"
+The verb "to be" (for location) should be conjugated in third-person plural because we are referring to multiple restaurants.
+The adjective "best" should match the plural form of restaurants.
+"Here" translates to "aquí" and usually comes after the verb.
+"To eat" should stay in its infinitive form.
+"Local food" should be structured as "comida local."
+Try to put these pieces together, and I'll guide you if needed!

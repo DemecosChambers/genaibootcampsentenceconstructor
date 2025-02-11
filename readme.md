@@ -1,6 +1,6 @@
 Spanish Sentence Constructor
 
-## Gemini AI-Powered Assistant 
+## Gemini AI-Powered Assistant (Gemini 2.0 Flash) & Chatgpt (GPT-4-turbo model)
 
 ## Which model
 
